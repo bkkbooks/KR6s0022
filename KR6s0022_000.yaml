@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0022/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵語千字文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2133B.xml
+    old_id: T54n2133B
+hash: sha256:48139f5d6b55efc8dbe370cb470bd1055ab601abd7bbc22c93f2ed7167fa4490

@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6s0022/v1
+canonical_location: https://kanripo.org/bkk/KR6s0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 梵語千字文
+  identifiers:
+    alt_id:
+    - T54n2133B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2133B.xml
+    old_id: T54n2133B
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0022_000.yaml, hash: 'sha256:48139f5d6b55efc8dbe370cb470bd1055ab601abd7bbc22c93f2ed7167fa4490'}
+  - {seq: 1, filename: KR6s0022_001.yaml, hash: 'sha256:ff1f1ff8f35c24baeb2d20b0ffbb58ca62233dc4deb00f1e6162a458cf225c3a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0022_001.markers.yaml, hash: 'sha256:9014b8bd708355cce809920f148faa85031b700164fbd5c41f0a827fd34da754'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8858
+  label: 梵語千字文并序附刻
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 梵語千字文序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-2
+    span:
+    - body
+    - 74
+    - 74
+  label: 梵語千字文舊刻序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-3
+    span:
+    - body
+    - 242
+    - 242
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-4
+    span:
+    - body
+    - 547
+    - 547
+  label: 梵語千字文譯注
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-5
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 梵語千字文譯注
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-6
+    span:
+    - body
+    - 7365
+    - 7365
+  label: 識語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-7
+    span:
+    - body
+    - 7408
+    - 7408
+  label: 梵唐消息
+  type: mulu
+  level: 1
+hash: sha256:964e348a31cd2db257c28a6b8c41726c80f317d56c08ed7da8e15ed548568d1e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

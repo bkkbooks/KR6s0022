@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6s0022/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0022/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵語千字文
+  identifiers:
+    krp: KR6s0022
+    cbeta: T54n2133B
+    cbeta_old_id: T54n2133B
+    authorityid: CA0001000B
+    json_key: T2133B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2133B.xml
+    old_id: T54n2133B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0022_000-T.yaml, hash: 'sha256:48139f5d6b55efc8dbe370cb470bd1055ab601abd7bbc22c93f2ed7167fa4490'}
+  - {seq: 1, filename: KR6s0022_001-T.yaml, hash: 'sha256:c8737f68ef006e6ddc2745c7ffd9d4b0fc3869ca52156c7b6fbd93de3bebf772'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0022_000-T.markers.yaml, hash: 'sha256:38f4eb8a38f7ee316781e48473c68e06be4b8fc0e5db1da897ddc2480dbe0e16'}
+  - {seq: 1, role: markers, filename: assets/KR6s0022_001-T.markers.yaml, hash: 'sha256:eb7362d5be06e595e5084d087bb927085adf0e81bfdef5689575f7e51e8a5d58'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8858
+  label: 梵語千字文并序附刻
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 梵語千字文序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-2
+    span:
+    - body
+    - 74
+    - 74
+  label: 梵語千字文舊刻序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-3
+    span:
+    - body
+    - 242
+    - 242
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-4
+    span:
+    - body
+    - 547
+    - 547
+  label: 梵語千字文譯注
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-5
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 梵語千字文譯注
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-6
+    span:
+    - body
+    - 7365
+    - 7365
+  label: 識語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0022_T_001-mulu-7
+    span:
+    - body
+    - 7408
+    - 7408
+  label: 梵唐消息
+  type: mulu
+  level: 1
+hash: sha256:f5c5195660373f594aea263bde8f8ce654177d97e06d250f574a5199edd01437
