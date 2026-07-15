@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0022/v1
 canonical_location: https://kanripo.org/bkk/KR6s0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵語千字文
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0022_000.yaml, hash: 'sha256:48139f5d6b55efc8dbe370cb470bd1055ab601abd7bbc22c93f2ed7167fa4490'}
-  - {seq: 1, filename: KR6s0022_001.yaml, hash: 'sha256:c8737f68ef006e6ddc2745c7ffd9d4b0fc3869ca52156c7b6fbd93de3bebf772'}
+  - {seq: 1, filename: KR6s0022_001.yaml, hash: 'sha256:1e9ba7153487c4be700b1859875e92c8a754b690e90f05edd867bd567b34f2f3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0022_000.markers.yaml, hash: 'sha256:0c32e5517cf8ab0250c69d45527e67b0baede89fb1f83ad499b715c082d6b354'}
-  - {seq: 1, role: markers, filename: assets/KR6s0022_001.markers.yaml, hash: 'sha256:33cb667a359d73e2327ce48b47b9915ee482e48edc83f710771b7e122061df71'}
+  - {seq: 1, role: markers, filename: assets/KR6s0022_001.markers.yaml, hash: 'sha256:68ea00f9ba4c1196c76f00b5292d196468a7460ad6f0451110f10dc51161fde9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,4 +107,7 @@ table_of_contents:
   label: 梵唐消息
   type: mulu
   level: 1
-hash: sha256:d7c83632cfdf100137021db9f096fbc0bb3797524745e0ff8d5ed09575425fdb
+hash: sha256:7d8c24b97831fcad93cba39bbf31a659fece22c6ee7ac92b22a37eee880f63f3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
